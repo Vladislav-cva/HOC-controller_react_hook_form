@@ -1,0 +1,6 @@
+.content {
+    display: flex;
+    flex: 0 1 auto;
+    background-color: #77a7e7;
+    padding: 40px 120px 30px 120px !important;
+}

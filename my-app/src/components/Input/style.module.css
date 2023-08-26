@@ -1,0 +1,9 @@
+.input {
+    width: 400px;
+    height: 30px;
+}
+
+.input::placeholder {
+    color: rgb(214, 214, 236);  
+    line-height: normal
+}
